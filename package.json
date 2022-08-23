@@ -10,9 +10,18 @@
   },
   "dependencies": {
     "expo": "~46.0.9",
-    "expo-status-bar": "~1.4.0",
+    "expo-file-system": "~14.1.0",
+    "expo-image-crop": "^1.0.4",
+    "expo-image-cropper": "^1.0.9",
+    "expo-image-manipulator": "~10.4.0",
+    "expo-image-picker": "~13.3.1",
+    "expo-permissions": "~13.2.0",
     "react": "18.0.0",
-    "react-native": "0.69.4"
+    "react-native": "0.69.4",
+    "react-native-auto-height-image": "^3.2.4",
+    "react-native-gesture-handler": "^2.5.0",
+    "react-native-vector-icons": "^9.2.0",
+    "recoil": "^0.7.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
